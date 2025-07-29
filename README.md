@@ -37,7 +37,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamamahgoup2004&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamamahgoup2004&layout=compact&theme=radical" width="48%" />
 </div>
 
 ---
