@@ -1,4 +1,8 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%" align="center"/><br> 
+<p align="center">
+  <a href="https://github.com/sp-xd">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Osama Mahgoub</h1>
 <h3 align="center">Computer Science Student | Enthusiast in Machine Learning & Data Science</h3>
 
