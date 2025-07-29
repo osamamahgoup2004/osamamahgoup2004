@@ -48,7 +48,7 @@
 
 ---
 
-### ✨ Favorite Quote
+### ✨ Favorite Quotes
 -> “The best way to predict the future is to invent it.” – Alan Kay<br>
 -> “Look around and you will find people the would be better without.” – Johan Liebert
-
+-> “there are no man like me..only me.” – Jaime Lanisster
