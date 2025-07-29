@@ -49,6 +49,6 @@
 ---
 
 ### ✨ Favorite Quote
--> “The best way to predict the future is to invent it.” – Alan Kay.
+-> “The best way to predict the future is to invent it.” – Alan Kay<br>
 -> “Look around and you will find people the would be better without.” – Johan Liebert
 
