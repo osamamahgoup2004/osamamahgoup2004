@@ -46,7 +46,7 @@
 
 - 📧 Email: [osamamahgoup0@gmail.com] <!-- Replace with your real email -->
 - 💼 LinkedIn: [linkedin.com/in/osama-mahgoup-186338284](https://www.linkedin.com/in/osama-mahgoup-186338284/)
-- 🧠 Kaggle: [[kaggle.com/osamahgoub](kaggle.com/osamahgoub)](https://www.kaggle.com/osamahgoub)
+- 🧠 Kaggle: [(kaggle.com/osamahgoub)](https://www.kaggle.com/osamahgoub)
 
 ---
 
